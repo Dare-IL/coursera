@@ -1,7 +1,7 @@
 <h1>Project 1: Blight payment prediction</h1>
 <ul>
-  <li>Project type: Classification</li>
   <li>Project goal: Predict if a fine will be paid or not.</li>
+  <li>Project type: Classification</li>
   <li>Data shape: 250306x34</li>
   <li>Models: Naive Bayes, Logistic regression, Support vector classifier, Random forest, XGBoost</li>
   <li>Model evaluation: Area Under the ROC Curve</li>
