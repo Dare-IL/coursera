@@ -26,15 +26,19 @@
     </tr>
     <tr>
         <td>Naive Bayes</td>
-        <td>0.71</td>
+        <td>0.76</td>
     </tr>
     <tr>
-        <td><strong>Logistic Regression</strong></td>
-        <td><strong>0.78</strong></td>
+        <td>Logistic Regression</td>
+        <td>0.78</td>
     </tr>
     <tr>
         <td>KNN</td>
-        <td>0.61</td>
+        <td>0.73</td>
+    </tr>
+    <tr>
+        <td><strong>Random Forest</strong></td>
+        <td><strong>0.83</strong></td>
     </tr>
     <tr>
         <td>SVM (linear)</td>
@@ -42,15 +46,11 @@
     </tr>
     <tr>
         <td>SVM (rbf)</td>
-        <td>0.58</td>
-    </tr>
-    <tr>
-        <td>Random Forest</td>
-        <td>0.68</td>
-    </tr>
+        <td>0.66</td>
+    </tr>    
     <tr>
         <td>Xtreme Gradient Boosting</td>
-        <td>0.61</td>
+        <td>0.82</td>
     </tr>
 </table>
 
