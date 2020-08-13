@@ -41,16 +41,16 @@
         <td><strong>0.83</strong></td>
     </tr>
     <tr>
-        <td>SVM (linear)</td>
+        <td>SVC (linear)</td>
         <td>0.56</td>
     </tr>
     <tr>
-        <td>SVM (rbf)</td>
+        <td>SVC (rbf)</td>
         <td>0.66</td>
     </tr>    
     <tr>
         <td>Xtreme Gradient Boosting</td>
         <td>0.82</td>
     </tr>
-</table>
+</table> 
 
